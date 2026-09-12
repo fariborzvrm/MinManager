@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ObjectStorage.Api/ObjectStorage.Api.csproj" />
+    <Project Path="src/ObjectStorage.Application/ObjectStorage.Application.csproj" />
+    <Project Path="src/ObjectStorage.Domain/ObjectStorage.Domain.csproj" />
+    <Project Path="src/ObjectStorage.Infrastructure/ObjectStorage.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ObjectStorage.IntegrationTests/ObjectStorage.IntegrationTests.csproj" />
+    <Project Path="tests/ObjectStorage.UnitTests/ObjectStorage.UnitTests.csproj" />
+  </Folder>
+</Solution>

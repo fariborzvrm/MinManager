@@ -1,0 +1,17 @@
+**/.git
+**/.vs
+**/.vscode
+**/.idea
+**/.codegraph
+**/bin
+**/obj
+**/TestResults
+**/*.user
+**/*.suo
+**/*.userprefs
+**/*.dbmdl
+**/*.jfm
+**/.env
+docker/.env
+**/secrets.json
+**/launchSettings.json
