@@ -15,6 +15,12 @@ Clean architecture, service isolation, idempotent uploads, audit logging, and fu
 
 ---
 
+## Documentation
+
+📄 [**Codebase Guide (PDF)**](docs/codebase-guide.pdf)
+
+---
+
 ## Why This Exists
 
 Other backend services need to store and retrieve files, but directly depending on MinIO creates coupling. This service provides a clean HTTP API that:
